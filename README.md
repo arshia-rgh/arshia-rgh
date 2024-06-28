@@ -1,5 +1,7 @@
 # Hello, I'm Arshia 👋
 
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 ## 🚀 About Me
 I'm a backend developer specializing in Django. I love to learn and explore new tech.
 
