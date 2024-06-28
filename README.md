@@ -14,7 +14,7 @@ I'm a backend developer specializing in Django. I love to learn and explore new 
 ## 🎯 Current Project
 I'm currently working on:
 
-[![Current Project](https://img.shields.io/badge/Current_Project-%23327FC7.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/serene1212/myportfolio)
+[![Current Project](https://img.shields.io/badge/Current_Project-%23327FC7.svg?&style=for-the-badge&logo=GitHub&logoColor=white)]([https://github.com/serene1212/myportfolio](https://github.com/serene1212/Charity))
 ## 📫 How to reach me
 You can reach me at
 - [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:arshiarezagholi1212@gmail.com)
