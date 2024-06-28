@@ -33,3 +33,10 @@ You can check my resume here:
 I'm  a professional Mobile Legends player 🎮
 
 And a water polo referee 🤽‍♂
+
+
+![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
+
+
+
+
