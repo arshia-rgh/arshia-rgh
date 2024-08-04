@@ -41,7 +41,7 @@ You can check my personal website here:
 ## 📄 Resume
 You can check my resume here:
 
-[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=Adobe&logoColor=white)](./CV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=Adobe&logoColor=white)](./Resume.pdf)
 
 ## ⚡ Fun fact
 I'm  a professional Mobile Legends player 🎮
