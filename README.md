@@ -37,11 +37,11 @@ You can reach me at
 ## 📚 Personal Website
 You can check my personal website here:
 
-[![Website](https://img.shields.io/badge/Website-%23327FC7.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://serene1212.eu.pythonanywhere.com/)
+[![Website](https://img.shields.io/badge/Website-%23327FC7.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://arshia1212.eu.pythonanywhere.com/)
 ## 📄 Resume
 You can check my resume here:
 
-[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=Adobe&logoColor=white)](./resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=Adobe&logoColor=white)](./Latest_resume.pdf)
 
 ## ⚡ Fun fact
 I'm  a professional Mobile Legends player 🎮
