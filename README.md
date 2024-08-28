@@ -14,7 +14,6 @@ I'm a backend developer specializing in Django. I love to learn and explore new 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,7 +40,7 @@ You can check my personal website here:
 ## 📄 Resume
 You can check my resume here:
 
-[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=Adobe&logoColor=white)](./Latest_resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=Adobe&logoColor=white)](./Arshia Rezagholi.pdf)
 
 ## ⚡ Fun fact
 I'm  a professional Mobile Legends player 🎮
