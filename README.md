@@ -27,11 +27,10 @@ I'm a backend developer specializing in Django. I love to learn and explore new 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 
-## Most Used Languages
+## :octocat: Most Used Languages 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=radical)
 
 
 ## 🎯 Current Project
