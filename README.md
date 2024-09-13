@@ -2,6 +2,11 @@
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=radical)
+
+
+
+
 ## 🚀 About Me
 I'm a backend developer specializing in Django. I love to learn and explore new tech.
 
@@ -46,22 +51,4 @@ You can check my resume here:
 I'm  a professional Mobile Legends player 🎮
 
 And a water polo referee 🤽‍♂
-
-
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshia-rgh&show_icons=true&theme=radical)
-
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=radical)
-
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=serene1212&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arshia-rgh&theme=react-dark)
-
-
-
-
 
