@@ -1,8 +1,6 @@
 # Hello, I'm Arshia 👋
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=radical)
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=radical)
 
 
 
