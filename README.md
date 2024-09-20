@@ -33,10 +33,6 @@ I'm a backend developer specializing in Django. I love to learn and explore new 
 
 
 
-## 🎯 Current Project
-I'm currently working on:
-
-[![Current Project](https://img.shields.io/badge/Current_Project-%23327FC7.svg?&style=for-the-badge&logo=GitHub&logoColor=white)]([https://github.com/serene1212/myportfolio](https://github.com/serene1212/Charity))
 ## 📫 How to reach me
 You can reach me at
 - [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:arshiarezagholi1212@gmail.com)
@@ -46,10 +42,7 @@ You can reach me at
 You can check my personal website here:
 
 [![Website](https://img.shields.io/badge/Website-%23327FC7.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://arshia1212.eu.pythonanywhere.com/)
-## 📄 Resume
-You can check my resume here:
 
-[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=Adobe&logoColor=white)](./Arshia_Rezagholi.pdf)
 
 ## ⚡ Fun fact
 I'm  a professional Mobile Legends player 🎮
