@@ -27,25 +27,7 @@ I'm a backend developer specializing in Django. I love to learn and explore new 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 
-## :octocat: Most Used Languages 
+## :octocat: Some stats of me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=radical)
-
-
-
-## 📫 How to reach me
-You can reach me at
-- [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:arshiarezagholi1212@gmail.com)
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arshia-rezagholi-959808316/)
-## 📚 Personal Website
-You can check my personal website here:
-
-[![Website](https://img.shields.io/badge/Website-%23327FC7.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://arshia1212.eu.pythonanywhere.com/)
-
-
-## ⚡ Fun fact
-I'm  a professional Mobile Legends player 🎮
-
-And a water polo referee 🤽‍♂
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=dark) &emsp; ![GitHub Streak](https://streak-stats.demolab.com/?user=arshia-rgh&theme=dark)
 
