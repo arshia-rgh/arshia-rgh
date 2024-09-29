@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I'm a backend developer specializing in Django. I love to learn and explore new tech.
+I'm a Python backend developer who is not limited to a framework and is more focused on the language I use and backend techs. I love to learn and explore new tech.
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
