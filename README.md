@@ -5,7 +5,8 @@
 
 
 ## 🚀 About Me
-I'm a Python backend developer who is not limited to a framework and is more focused on the language I use and backend techs. I love to learn and explore new tech.
+A backend developer who is not limited to a framework and is more focused on the core of the programming
+languages and backend technologies
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -29,5 +30,12 @@ I'm a Python backend developer who is not limited to a framework and is more foc
 
 ## :octocat: Some stats of me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=dark) &emsp; ![GitHub Streak](https://streak-stats.demolab.com/?user=arshia-rgh&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshia-rgh&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshia-rgh&theme=github)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=github)
+![](https://streak-stats.demolab.com/?user=arshia-rgh&theme=github)
+
+
+
 
