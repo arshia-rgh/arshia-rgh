@@ -31,11 +31,12 @@ languages and backend technologies
 ## :octocat: Some stats of me
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshia-rgh&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshia-rgh&theme=github)
+(https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshia-rgh&theme=github)
+(https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshia-rgh&theme=github)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=github)
-![](https://streak-stats.demolab.com/?user=arshia-rgh&theme=github)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=compact&theme=github)
+(https://github-readme-stats.vercel.app/api?username=arshia-rgh)](https://github.com/arshia-rgh/github-readme-stats)
+(https://streak-stats.demolab.com/?user=arshia-rgh&theme=github)
 
 
 
