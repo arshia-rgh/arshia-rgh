@@ -34,7 +34,7 @@ languages and backend technologies
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshia-rgh&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshia-rgh&theme=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshia-rgh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://streak-stats.demolab.com/?user=arshia-rgh&theme=github)
 
 
