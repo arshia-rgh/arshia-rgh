@@ -5,6 +5,6 @@
 
 
 
-## Python | Golang
+## Golang | Rust
 
 
